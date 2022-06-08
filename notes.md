@@ -14,6 +14,18 @@ pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cud
   --global-option="--fast_multihead_attn" ./
 ```
 
+```
+nltk
+pandas
+rust
+transformers
+stanza
+scikit-learn
+unidecode
+sentencepiece
+gensim
+networkx
+```
 
 ---
 
