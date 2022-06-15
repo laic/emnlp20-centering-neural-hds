@@ -27,16 +27,4 @@ gensim
 networkx
 ```
 
----
-
-Issues installing transformers
-```
-CMake Error at CMakeLists.txt:15 (cmake_minimum_required):
-      CMake 3.1 or higher is required.  You are running version 2.8.12.2
-```
-
-Update cmake via conda
-
-```
-conda install cmake
-```
+Then there's issues with the toefl data prep script...
